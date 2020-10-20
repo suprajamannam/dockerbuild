@@ -1,4 +1,4 @@
-FROM dockerbuild
+FROM suprajamannam/dockerbuild 
 
 # Install JDK
 RUN apk add openjdk8
